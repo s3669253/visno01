@@ -14,16 +14,7 @@ label start:
     nvl clear
     "She fears that it might be her last day on earth."
     
-    Mother "Visit your uncle on the other side of the woods and let him know I am very sick." 
-    Mother "You need to make an offering to the woods for safe passage"
-    Mother "Never talk to anyone. "
-
-
-    Mother "This is how to do"
     
-    Mother "Spill earth, ashes from urn"
-    Mother "Spill water, fresh drinking water"
-    Mother "Spill blood, grab a dove from the outside cage and kill it"
 
     show Ara at right
     Ara "I will do it mum, I will be back soon"
