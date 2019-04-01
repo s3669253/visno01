@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 25: expected 'simple_expression' not found.
-    show Ara at with moveinleft
-                ^
+File "game/script.rpy", line 79: expected menuitem
+    if(water_point > 0):
+    ^
 
 Ren'Py Version: Ren'Py 7.1.3.1092
-Sat Mar 16 18:06:09 2019
+Mon Apr  1 11:22:09 2019
